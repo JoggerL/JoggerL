@@ -1,4 +1,4 @@
-[Metrics](https://github.com/JoggerL/JoggerL/edit/main/github-metrics.svg)
+![Metrics](https://github.com/JoggerL/JoggerL/edit/main/github-metrics.svg)
 
 <!--
 **JoggerL/JoggerL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
